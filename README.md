@@ -9,6 +9,7 @@ A powerful AI-powered mock interview platform designed to help candidates prepar
 - 🤖 **AI-Driven Questioning** – Uses LangGraph and Ollama for context-aware, evolving questions.
 - 📊 **Real-Time Feedback** – Get intelligent feedback on your answers, tone, and clarity.
 - 🧠 **Session Memory** – Each interview session is stored separately for later review.
+- 🎤 **Real-Time Speech-To-Text** 
 
 ---
 
@@ -21,8 +22,14 @@ A powerful AI-powered mock interview platform designed to help candidates prepar
 | LLM         | Ollama                   |
 | State Mgmt  | LangGraph Agents         |
 | Database    | MongoDB                  |
+| Speech-To-Text | Eleven Labs           |
 
 Preview
+**Home page:**
 ![Screenshot 2025-05-31 232915](https://github.com/user-attachments/assets/eb1258bc-7c38-4227-823f-63c7b00c998c)
+
+**Interview Page:**
+![image](https://github.com/user-attachments/assets/76ee1600-cd1c-4dcd-8147-44cad6592c65)
+
 
 
