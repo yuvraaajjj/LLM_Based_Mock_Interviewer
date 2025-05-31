@@ -21,3 +21,8 @@ A powerful AI-powered mock interview platform designed to help candidates prepar
 | LLM         | Ollama                   |
 | State Mgmt  | LangGraph Agents         |
 | Database    | MongoDB                  |
+
+Preview
+![Screenshot 2025-05-31 232915](https://github.com/user-attachments/assets/eb1258bc-7c38-4227-823f-63c7b00c998c)
+
+
