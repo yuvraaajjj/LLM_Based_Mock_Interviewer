@@ -22,7 +22,7 @@ A powerful AI-powered mock interview platform designed to help candidates prepar
 | LLM         | Ollama                   |
 | State Mgmt  | LangGraph Agents         |
 | Database    | MongoDB                  |
-| Speech-To-Text | Eleven Labs           |
+| Text-To-Speech | Eleven Labs           |
 
 Preview
 **Home page:**
