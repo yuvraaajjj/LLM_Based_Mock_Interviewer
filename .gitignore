@@ -1,0 +1,5 @@
+/Server/.env
+/Server/Node/.env
+Server/venv
+/Server/__pycache__
+/Server/Node/node_modules
