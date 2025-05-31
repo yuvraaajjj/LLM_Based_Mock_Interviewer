@@ -1,1 +1,23 @@
-"# LLM_Based_Mock_Interviewer" 
+🧠 Mock Interviewer AI
+
+A powerful AI-powered mock interview platform designed to help candidates prepare for job interviews through realistic, interactive sessions. Built with React, Flask, and powered by LangGraph and Ollama for dynamic question generation, feedback, and evaluation.
+
+## 🚀 Features
+
+- 💬 **Chat-based Interview Interface** – Natural, conversational UI for a seamless experience.
+- 🧑‍💻 **Topic-Specific Interviews** – Choose from a list of technical and behavioral topics.
+- 🤖 **AI-Driven Questioning** – Uses LangGraph and Ollama for context-aware, evolving questions.
+- 📊 **Real-Time Feedback** – Get intelligent feedback on your answers, tone, and clarity.
+- 🧠 **Session Memory** – Each interview session is stored separately for later review.
+
+---
+
+## 🛠️ Tech Stack
+
+| Component   | Tech                     |
+|-------------|--------------------------|
+| Frontend    | React + Tailwind (Vite)  |
+| Backend     | Flask + LangGraph        |
+| LLM         | Ollama                   |
+| State Mgmt  | LangGraph Agents         |
+| Database    | MongoDB                  |
